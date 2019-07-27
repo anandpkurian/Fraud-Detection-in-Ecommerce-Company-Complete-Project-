@@ -21,11 +21,12 @@ Test:
 All Attributes names are self-explanatory.
 
 ## III.Tasks:
-<u> Model Building: </u>
+__Model Building:__
 You are expected to create an analytical and modelling framework to predict the Merchant Fraudulency based on the quantitative and qualitative features provided in the datasets. You may derive new features from the existing features and also from the domain knowledge, which may help in improving the model efficiency.
-<u> Visualization Tasks:</u>
+__Visualization Tasks__
 Exploratory Data Analysis using visualizations in R Notebook or Jupiter notebook format. (all train data to be used for this task)
 • List down the insights/patterns observed from the visualizations
 • Explain the impact of most important attributes on target attribute observed from the visualizations. Observations: Is there any overfitting or underfitting problem? If yes, how do you address it? 
 
-## IV. Evaluation Metric: • Consider ‘F1-score’ of the fraudulent class as the error metric for classification task to tune the model and for submissions in the tool.
+## IV. Evaluation Metric: 
+• Consider ‘F1-score’ of the fraudulent class as the error metric for classification task to tune the model and for submissions in the tool.
